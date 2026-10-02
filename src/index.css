@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+:root {
+  --tis-green: #123c35;
+  --tis-green-light: #1d574d;
+  --tis-cream: #f5f1e8;
+  --tis-white: #ffffff;
+  --tis-dark: #10211e;
+  --tis-muted: #66736f;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--tis-cream);
+  color: var(--tis-dark);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: var(--tis-green);
+  color: white;
+}
