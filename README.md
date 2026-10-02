@@ -6,7 +6,7 @@ The project focuses on creating a premium educational web experience while maint
 
 ## Live Demo
 
-**Live Website:** Add your Vercel URL here
+**Live Website:** https://tis-homepage-redesign-seven.vercel.app/
 
 **GitHub Repository:** Add your GitHub repository URL here
 
