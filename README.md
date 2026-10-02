@@ -8,7 +8,7 @@ The project focuses on creating a premium educational web experience while maint
 
 **Live Website:** https://tis-homepage-redesign-seven.vercel.app/
 
-**GitHub Repository:** Add your GitHub repository URL here
+**GitHub Repository:** https://github.com/mahendra2821/Tulas-International-School/tree/main
 
 ---
 
